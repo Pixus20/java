@@ -1,7 +1,6 @@
 public class Main{
     public static void main(String[] args){
     int a=27;
-    int b=34;
     int n=700;
     int c=a*n;
     int d=550;
